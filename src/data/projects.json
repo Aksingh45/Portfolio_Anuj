@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Weather Application",
+    "imageSrc": "projects/EcoHOpe.png",
+    "description": "The Weather App, built with HTML, CSS, and JavaScript, provides real-time weather updates using a weather API. It features a responsive design and allows users to search for weather conditions easily.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://aksingh45.github.io/weather-apppp/",
+    "source": "https://github.com/Aksingh45"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Build a visually appealing, fully animated React portfolio using CSS, ensuring responsive design and modern, good-looking elements for an impressive presentation.",
+    "skills": ["React", "CSS" , "HTML"],
+    "demo": "/",
+    "source": "https://github.com/Aksingh45"
+  },
+  {
+    "title": "Real Time Text Editor",
+    "imageSrc": "projects/project.png",
+    "description": "The Real-Time Text Editor, built with React.js, Node.js, and Socket.io, enables collaborative editing with live updates. It offers a seamless and responsive user experience for multiple users.",
+    "skills": ["React",  "Node", "Socket.io"],
+    "demo": "https://real-time-text-editor-neon.vercel.app/",
+    "source": "https://github.com/Aksingh45"
+  }
+
+]

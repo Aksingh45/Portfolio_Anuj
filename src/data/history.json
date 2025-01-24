@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Leetcode",
+    "organisation": "AnujG12",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["Solved 400+ problems",
+                      "Rating - 1601"],
+    "imageSrc": "history/lt.png"
+  },
+  {
+    "role": "Codechef",
+    "organisation": "anuj33",
+    "startDate": "Mar, 2022",
+    "endDate": "Present",
+    "experiences": ["solved 200+ problems", "2 star at codechef",
+                     "Rating - 1416"],
+    "imageSrc": "history/CC.jpg"
+  },
+  {
+    "role": "Codeforces",
+    "organisation": "anuj33",
+    "startDate": "Apr, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "solved 100+ problems",
+      "Rating - 951"
+    ],
+    "imageSrc": "history/cf.jpg"
+  }
+]
